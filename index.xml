@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://zwenrl.github.io/Personal_web/index.html</link><atom:link href="https://zwenrl.github.io/Personal_web/index.xml" rel="self" type="application/rss+xml"/><description/><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://zwenrl.github.io/Personal_web/media/icon_hu_1c0e9cb08cfb822a.png</url><title/><link>https://zwenrl.github.io/Personal_web/index.html</link></image><item><title>Dynamic Charging and Discharging Scheduling of Electric Vehicles Based on Deep Reinforcement Learning Algorithm</title><link>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</link><pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</guid><description>&lt;p&gt;&lt;em&gt;Industrial Engineering Journal&lt;/em&gt;, 29(5), 48–58 (2026). Published in Chinese.
+.&lt;/p&gt;
+&lt;p&gt;We developed an event-triggered policy based on proximal policy optimization for a charging station with stochastic vehicle arrivals and departures. The numerical experiments compare aggregator revenue against benchmark scheduling algorithms.&lt;/p&gt;</description></item><item><title>Education and Skills</title><link>https://zwenrl.github.io/Personal_web/education-and-skills.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/education-and-skills.html</guid><description/></item><item><title>Honors and Awards</title><link>https://zwenrl.github.io/Personal_web/awards.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/awards.html</guid><description/></item><item><title>Miscellany</title><link>https://zwenrl.github.io/Personal_web/miscellaneous.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/miscellaneous.html</guid><description>&lt;link rel="stylesheet" href="./Personal_web/assets/gallery/photoswipe.css"&gt;
+&lt;link rel="stylesheet" href="./Personal_web/assets/gallery/photoswipe-dynamic-caption-plugin.css"&gt;
+&lt;script defer src="./Personal_web/assets/gallery/hugo-gallery.js"&gt;&lt;/script&gt;
+&lt;section id="photography" aria-labelledby="photography-title"&gt;
+&lt;h2 id="photography-title"&gt;Photography&lt;/h2&gt;
+&lt;p&gt;Six photographs from my travels in 2024. Select a photo to open the gallery.&lt;/p&gt;
+&lt;section class="gallery" aria-label="Travel photography from 2024"&gt;
+&lt;div id="gallery"&gt;
+&lt;a class="gallery-item" href="assets/photography/qinghai-gansu-mountains.jpg" data-pswp-src="assets/photography/qinghai-gansu-mountains.jpg" data-pswp-width="1600" data-pswp-height="1200" data-pswp-target="qinghai-gansu-mountains" title="Qinghai–Gansu road trip · 2024" style="aspect-ratio:600/450"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/qinghai-gansu-mountains-thumb.jpg" width="600" height="450" alt="An open plain and rugged mountains under a blue sky" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Qinghai–Gansu road trip · 2024&lt;/span&gt;
+&lt;/a&gt;&lt;a class="gallery-item" href="assets/photography/italy-bridge.jpg" data-pswp-src="assets/photography/italy-bridge.jpg" data-pswp-width="1200" data-pswp-height="1600" data-pswp-target="italy-bridge" title="Italy · 2024" style="aspect-ratio:450/600"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/italy-bridge-thumb.jpg" width="450" height="600" alt="Colorful buildings along a bridge over a green river" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Italy · 2024&lt;/span&gt;
+&lt;/a&gt;&lt;a class="gallery-item" href="assets/photography/rome-skyline.jpg" data-pswp-src="assets/photography/rome-skyline.jpg" data-pswp-width="1600" data-pswp-height="1200" data-pswp-target="rome-skyline" title="Rome · 2024" style="aspect-ratio:600/450"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/rome-skyline-thumb.jpg" width="600" height="450" alt="A round fortress between stone figures beneath a textured sky" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Rome · 2024&lt;/span&gt;
+&lt;/a&gt;&lt;a class="gallery-item" href="assets/photography/finland-aurora.jpg" data-pswp-src="assets/photography/finland-aurora.jpg" data-pswp-width="1200" data-pswp-height="1600" data-pswp-target="finland-aurora" title="Finland · 2024" style="aspect-ratio:450/600"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/finland-aurora-thumb.jpg" width="450" height="600" alt="A green aurora above a dark horizon" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Finland · 2024&lt;/span&gt;
+&lt;/a&gt;&lt;a class="gallery-item" href="assets/photography/qinghai-gansu-pagoda.jpg" data-pswp-src="assets/photography/qinghai-gansu-pagoda.jpg" data-pswp-width="1200" data-pswp-height="1600" data-pswp-target="qinghai-gansu-pagoda" title="Qinghai–Gansu road trip · 2024" style="aspect-ratio:450/600"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/qinghai-gansu-pagoda-thumb.jpg" width="450" height="600" alt="A tall stone pagoda against a blue sky" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Qinghai–Gansu road trip · 2024&lt;/span&gt;
+&lt;/a&gt;&lt;a class="gallery-item" href="assets/photography/sweden-thaw.jpg" data-pswp-src="assets/photography/sweden-thaw.jpg" data-pswp-width="1600" data-pswp-height="1200" data-pswp-target="sweden-thaw" title="Sweden · 2024" style="aspect-ratio:600/450"&gt;
+&lt;figure&gt;&lt;img src="assets/photography/sweden-thaw-thumb.jpg" width="600" height="450" alt="Snow melting among mossy rocks beside a small stream" loading="lazy"&gt;&lt;/figure&gt;
+&lt;span class="pswp-caption-content" hidden&gt;Sweden · 2024&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;h2 id="industry-experience"&gt;Industry Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Algorithm Development Intern&lt;/strong&gt; · International e-commerce supply chain and logistics&lt;br&gt;
+June–September 2026&lt;/p&gt;
+&lt;p&gt;I built a mixed-integer model for line-haul vehicle scheduling, used OR-Tools and SCIP to solve rolling-horizon subproblems, and developed visual tools to check schedules and diagnose model behavior.&lt;/p&gt;</description></item><item><title>Research</title><link>https://zwenrl.github.io/Personal_web/research-outputs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/research-outputs.html</guid><description/></item></channel></rss>
