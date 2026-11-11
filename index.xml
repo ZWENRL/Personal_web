@@ -1,6 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://zwenrl.github.io/Personal_web/index.html</link><atom:link href="https://zwenrl.github.io/Personal_web/index.xml" rel="self" type="application/rss+xml"/><description/><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://zwenrl.github.io/Personal_web/media/icon_hu_1c0e9cb08cfb822a.png</url><title/><link>https://zwenrl.github.io/Personal_web/index.html</link></image><item><title>Dynamic Charging and Discharging Scheduling of Electric Vehicles Based on Deep Reinforcement Learning Algorithm</title><link>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</link><pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</guid><description>&lt;p&gt;&lt;em&gt;Industrial Engineering Journal&lt;/em&gt;, 29(5), 48–58 (2026). Published in Chinese.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ziwen Yang's Website |</title><link>https://zwenrl.github.io/Personal_web/index.html</link><atom:link href="https://zwenrl.github.io/Personal_web/index.xml" rel="self" type="application/rss+xml"/><description>Ziwen Yang's Website</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate><item><title>Dynamic Charging and Discharging Scheduling of Electric Vehicles Based on Deep Reinforcement Learning Algorithm</title><link>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</link><pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/publications/ev-dispatch.html</guid><description>&lt;p&gt;Jingru Yang, Yue Ma, &lt;strong&gt;Ziwen Yang&lt;/strong&gt;, Liping Zhou, and Na Geng.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Industrial Engineering Journal&lt;/em&gt;, 29(5), 48–58 (2026). Published in Chinese.
 .&lt;/p&gt;
-&lt;p&gt;We developed an event-triggered policy based on proximal policy optimization for a charging station with stochastic vehicle arrivals and departures. The numerical experiments compare aggregator revenue against benchmark scheduling algorithms.&lt;/p&gt;</description></item><item><title>Education and Skills</title><link>https://zwenrl.github.io/Personal_web/education-and-skills.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/education-and-skills.html</guid><description/></item><item><title>Honors and Awards</title><link>https://zwenrl.github.io/Personal_web/awards.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/awards.html</guid><description/></item><item><title>Miscellany</title><link>https://zwenrl.github.io/Personal_web/miscellaneous.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/miscellaneous.html</guid><description>&lt;link rel="stylesheet" href="./Personal_web/assets/gallery/photoswipe.css"&gt;
+&lt;p&gt;We developed an event-triggered policy based on proximal policy optimization for a charging station with stochastic vehicle arrivals and departures. The numerical experiments compare aggregator revenue against benchmark scheduling algorithms.&lt;/p&gt;</description></item><item><title>Awards</title><link>https://zwenrl.github.io/Personal_web/awards.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/awards.html</guid><description>&lt;h2 id="national-competitions"&gt;National competitions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Grand Prize&lt;/strong&gt;, IE Liangjian National Industrial Engineering Application Case Competition (October 2023). Team project on emergency facility location and resource allocation.
+.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First Prize&lt;/strong&gt;, China College Students Industrial Engineering and Lean Management Innovation Competition (October 2023). Team project on automated guided vehicle path planning in a container terminal.
+.&lt;/p&gt;
+&lt;h2 id="university-honors"&gt;University honors&lt;/h2&gt;
+&lt;p&gt;Undergraduate Outstanding Scholarship&lt;/p&gt;
+&lt;p&gt;Changjiang Siyuan Science and Technology Innovation Scholarship&lt;/p&gt;
+&lt;p&gt;Outstanding Communist Youth League Member&lt;/p&gt;</description></item><item><title>Education and Skills</title><link>https://zwenrl.github.io/Personal_web/education-and-skills.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/education-and-skills.html</guid><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;h3 id="shanghai-jiao-tong-university"&gt;Shanghai Jiao Tong University&lt;/h3&gt;
+&lt;p&gt;Logistics Engineering and Management · September 2025–present&lt;br&gt;
+Master&amp;rsquo;s student&lt;/p&gt;
+&lt;h3 id="shanghai-jiao-tong-university-1"&gt;Shanghai Jiao Tong University&lt;/h3&gt;
+&lt;p&gt;Industrial Engineering · September 2021–June 2025&lt;br&gt;
+Bachelor of Engineering&lt;br&gt;
+Thesis — &lt;em&gt;Yard Crane Scheduling Method in Automated Container Terminals&lt;/em&gt;&lt;br&gt;
+Supervisor — Wei Qin&lt;/p&gt;
+&lt;h3 id="kth-royal-institute-of-technology"&gt;KTH Royal Institute of Technology&lt;/h3&gt;
+&lt;p&gt;Industrial Engineering · January–June 2024&lt;br&gt;
+Exchange studies, Stockholm, Sweden&lt;/p&gt;
+&lt;h2 id="skills"&gt;Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Optimization&lt;/strong&gt; — COPT, OR-Tools, SCIP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Programming and research tools&lt;/strong&gt; — Python, C++, MATLAB, PyTorch, NumPy, pandas, Git, LaTeX&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; — Chinese (native), English&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;</description></item><item><title>Miscellaneous</title><link>https://zwenrl.github.io/Personal_web/miscellaneous.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/miscellaneous.html</guid><description>&lt;link rel="stylesheet" href="./Personal_web/assets/gallery/photoswipe.css"&gt;
 &lt;link rel="stylesheet" href="./Personal_web/assets/gallery/photoswipe-dynamic-caption-plugin.css"&gt;
 &lt;script defer src="./Personal_web/assets/gallery/hugo-gallery.js"&gt;&lt;/script&gt;
 &lt;section id="photography" aria-labelledby="photography-title"&gt;
@@ -33,4 +59,13 @@
 &lt;h2 id="industry-experience"&gt;Industry Experience&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Algorithm Development Intern&lt;/strong&gt; · International e-commerce supply chain and logistics&lt;br&gt;
 June–September 2026&lt;/p&gt;
-&lt;p&gt;I built a mixed-integer model for line-haul vehicle scheduling, used OR-Tools and SCIP to solve rolling-horizon subproblems, and developed visual tools to check schedules and diagnose model behavior.&lt;/p&gt;</description></item><item><title>Research</title><link>https://zwenrl.github.io/Personal_web/research-outputs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/research-outputs.html</guid><description/></item></channel></rss>
+&lt;p&gt;I built a mixed-integer model for line-haul vehicle scheduling, used OR-Tools and SCIP to solve rolling-horizon subproblems, and developed visual tools to check schedules and diagnose model behavior.&lt;/p&gt;</description></item><item><title>Research Outputs</title><link>https://zwenrl.github.io/Personal_web/research-outputs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zwenrl.github.io/Personal_web/research-outputs.html</guid><description>&lt;h2 id="journal-article"&gt;Journal article&lt;/h2&gt;
+&lt;p&gt;[1] Yang, J., Ma, Y., &lt;strong&gt;Yang, Z.&lt;/strong&gt;, Zhou, L., and Geng, N. (2026). Dynamic Charging and Discharging Scheduling of Electric Vehicles Based on Deep Reinforcement Learning Algorithm. &lt;em&gt;Industrial Engineering Journal&lt;/em&gt;, 29(5), 48–58. In Chinese.
+.
+.&lt;/p&gt;
+&lt;h2 id="manuscript-under-review"&gt;Manuscript under review&lt;/h2&gt;
+&lt;p&gt;[1] &lt;strong&gt;Yang, Z.&lt;/strong&gt;, Zhou, L., and Geng, N. &lt;em&gt;Choice-based stochastic pricing for vehicle-to-grid-enabled electric vehicle charging stations under spatial competition and frequency regulation commitments&lt;/em&gt;. Under review at &lt;strong&gt;Transportation Research Part E&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="research-in-progress"&gt;Research in progress&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Vehicle-to-grid scheduling for electric bus fleets.&lt;/strong&gt; I am developing an optimization model and a branch-and-price prototype that coordinate bus assignments and bidirectional charging while accounting for service reliability and battery degradation.&lt;/p&gt;
+&lt;h2 id="undergraduate-thesis"&gt;Undergraduate thesis&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Yard Crane Scheduling Method in Automated Container Terminals&lt;/em&gt;. B.Eng. thesis, Shanghai Jiao Tong University, May 2025. Supervised by Wei Qin.&lt;/p&gt;</description></item></channel></rss>
